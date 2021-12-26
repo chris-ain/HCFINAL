@@ -1,13 +1,13 @@
 
-import { chessScene, id} from "https://raw.githubusercontent.com/chris-ain/HCFINAL/main/chess.js";
-import { curtains, curtainsmain } from "https://raw.githubusercontent.com/chris-ain/HCFINAL/main/curtainsmain.js";
-import { curtainsTrans,curtainsTransFunc } from "https://raw.githubusercontent.com/chris-ain/HCFINAL/main/curtainsTrans.js";
-import { curtainsAg, curtainsgenturfunc } from "https://raw.githubusercontent.com/chris-ain/HCFINAL/main/curtainsagentur.js";
+import { chessScene, id} from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/chess.js";
+import { curtains, curtainsmain } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsmain.js";
+import { curtainsTrans,curtainsTransFunc } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsTrans.js";
+import { curtainsAg, curtainsgenturfunc } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsagentur.js";
 import { curtainsProjDet,curtainsDet} from "https://raw.githubusercontent.com/chris-ain/HCFINAL/main/curtainsdet.js";
-import { curtainsP, projfunc} from 'https://raw.githubusercontent.com/chris-ain/HCFINAL/main/projekte.js'
-import { trans } from "https://raw.githubusercontent.com/chris-ain/HCFINAL/main./menu.js";
-import { menuItems } from 'https://raw.githubusercontent.com/chris-ain/HCFINAL/main/menuItems.js';
-import { curtainsMainTransFunc, curtainsMainTrans } from 'https://raw.githubusercontent.com/chris-ain/HCFINAL/main/curtainsMainTrans.js'
+import { curtainsP, projfunc} from 'https://cdn.statically.io/gh/chris-ain/HCFINAL/main/projekte.js'
+import { trans } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/menu.js";
+import { menuItems } from 'https://cdn.statically.io/gh/chris-ain/HCFINAL/main/menuItems.js';
+import { curtainsMainTransFunc, curtainsMainTrans } from 'https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsMainTrans.js'
 
 
 window.addEventListener("load", function(event) {
