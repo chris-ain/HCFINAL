@@ -3,7 +3,7 @@ import { chessScene, id} from "https://cdn.statically.io/gh/chris-ain/HCFINAL/ma
 import { curtains, curtainsmain } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsmain.js";
 import { curtainsTrans,curtainsTransFunc } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsTrans.js";
 import { curtainsAg, curtainsgenturfunc } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsagentur.js";
-import { curtainsProjDet,curtainsDet} from "https://raw.githubusercontent.com/chris-ain/HCFINAL/main/curtainsdet.js";
+import { curtainsProjDet,curtainsDet} from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/curtainsdet.js";
 import { curtainsP, projfunc} from 'https://cdn.statically.io/gh/chris-ain/HCFINAL/main/projekte.js'
 import { trans } from "https://cdn.statically.io/gh/chris-ain/HCFINAL/main/menu.js";
 import { menuItems } from 'https://cdn.statically.io/gh/chris-ain/HCFINAL/main/menuItems.js';
